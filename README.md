@@ -3,7 +3,7 @@
 This is a **Stock Forecast App** built using Python, Streamlit, and various data science libraries. The app allows users to input OR select a stock ticker, download historical stock data from Yahoo Finance, and generate stock price predictions using Facebook Prophet. The results are visualized using Plotly for interactive graphs.
 
 ## See a demo here:
-<img width="1842" alt="image" src="https://github.com/user-attachments/assets/041089dc-b76c-4023-bc70-62ebb8060527" />
+https://hg-dev-stock-forecast.streamlit.app/
 
 ## Features 🪛
 - **Stock Data Download**: Fetches historical stock data from Yahoo Finance.
@@ -51,6 +51,9 @@ This is a **Stock Forecast App** built using Python, Streamlit, and various data
 - Yahoo Finance (yfinance)
 - Facebook Prophet
 - Plotly
+
+## Screenshot(s)
+<img width="1842" alt="image" src="https://github.com/user-attachments/assets/041089dc-b76c-4023-bc70-62ebb8060527" />
 
 ## License
 No Copyright
