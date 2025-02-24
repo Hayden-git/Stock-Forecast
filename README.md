@@ -53,7 +53,8 @@ https://hg-dev-stock-forecast.streamlit.app/
 - Plotly
 
 ## Screenshot(s)
-<img width="1842" alt="image" src="https://github.com/user-attachments/assets/041089dc-b76c-4023-bc70-62ebb8060527" />
+<img width="568" alt="image" src="https://github.com/user-attachments/assets/a2d2f8f9-004a-432d-baa1-8a9d4df5b2c9" />
+
 
 ## License
 No Copyright
