@@ -5,6 +5,9 @@ This is a **Stock Forecast App** built using Python, Streamlit, and various data
 ## See a demo here:💃🏻
 https://hg-dev-stock-forecast.streamlit.app/
 
+## Screenshot(s)
+<img width="568" alt="image" src="https://github.com/user-attachments/assets/a2d2f8f9-004a-432d-baa1-8a9d4df5b2c9" />
+
 ## Features 🪛
 - **Stock Data Download**: Fetches historical stock data from Yahoo Finance.
 - **Stock Price Prediction**: Utilizes Facebook Prophet for time series forecasting.
@@ -51,10 +54,6 @@ https://hg-dev-stock-forecast.streamlit.app/
 - Yahoo Finance (yfinance)
 - Facebook Prophet
 - Plotly
-
-## Screenshot(s)
-<img width="568" alt="image" src="https://github.com/user-attachments/assets/a2d2f8f9-004a-432d-baa1-8a9d4df5b2c9" />
-
 
 ## License
 No Copyright
